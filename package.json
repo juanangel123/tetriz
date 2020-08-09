@@ -1,5 +1,5 @@
 {
-  "name": "juanangel123/tetriz",
+  "name": "@juanangel123/tetriz",
   "version": "0.0.1",
   "description": "Just a tetris-like game.",
   "main": "src/index.js",
